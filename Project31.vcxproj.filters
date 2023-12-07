@@ -39,6 +39,9 @@
     <ClCompile Include="arrayfuncptr.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="seasonsals.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="harmonicmean.h">
@@ -60,6 +63,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="arrayfuncptr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="seasonsals.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

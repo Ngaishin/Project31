@@ -5,15 +5,20 @@
 //#include "gusprobability.h"
 //#include "factorial.h"
 //#include "arrayinput.h"
-#include "arrayfuncptr.h"
+//#include "arrayfuncptr.h"
+#include "seasonsals.h"
 
 using namespace std;
 
 int main()
 {
-	float ar[7]{};
-	float* teil = array_fill( ar,7 );
+	double a[4]{};
+	sals s[4]{};
+	fill(a);
+	show(a);
 
+	fill(s);
+	show(s);
 
 	return 0;
 }
