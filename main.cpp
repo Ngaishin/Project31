@@ -6,19 +6,14 @@
 //#include "factorial.h"
 //#include "arrayinput.h"
 //#include "arrayfuncptr.h"
-#include "seasonsals.h"
+//#include "seasonsals.h"
+//#include "studentinfo.h"
+//#include "calculateptr.h"
 
 using namespace std;
 
 int main()
 {
-	double a[4]{};
-	sals s[4]{};
-	fill(a);
-	show(a);
-
-	fill(s);
-	show(s);
 
 	return 0;
 }

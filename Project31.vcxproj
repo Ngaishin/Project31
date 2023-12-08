@@ -130,22 +130,26 @@
     <ClCompile Include="arrayfuncptr.cpp" />
     <ClCompile Include="arrayinput.cpp" />
     <ClCompile Include="box.cpp" />
+    <ClCompile Include="calculateptr.cpp" />
     <ClCompile Include="factorial.cpp" />
     <ClCompile Include="golfscores.cpp" />
     <ClCompile Include="gusprobability.cpp" />
     <ClCompile Include="harmonicmean.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="seasonsals.cpp" />
+    <ClCompile Include="studentinfo.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="arrayfuncptr.h" />
     <ClInclude Include="arrayinput.h" />
     <ClInclude Include="box.h" />
+    <ClInclude Include="calculateptr.h" />
     <ClInclude Include="factorial.h" />
     <ClInclude Include="golfscores.h" />
     <ClInclude Include="gusprobability.h" />
     <ClInclude Include="harmonicmean.h" />
     <ClInclude Include="seasonsals.h" />
+    <ClInclude Include="studentinfo.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
